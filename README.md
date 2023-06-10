@@ -10,7 +10,8 @@ I really enjoy coding and continuous learning.
 
 ### 🤝 Connect with me:
 
-https://www.linkedin.com/in/valentina-colorado
+<a href="https://www.linkedin.com/in/valentina-colorado/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
+
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
