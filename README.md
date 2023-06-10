@@ -18,7 +18,7 @@ I really enjoy coding and continuous learning.
 
 ## 🔭 I'm currently working on
 
-- Data analysis on rat sights in NYC 
+- Data analysis project
 - Spotify re-wrapped 
 
 ## 🌱 I'm currently learning
