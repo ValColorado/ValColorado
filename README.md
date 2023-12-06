@@ -18,13 +18,13 @@ I really enjoy coding and continuous learning.
 
 ## 🔭 I'm currently working on
 
-- Data analysis project
-- Spotify re-wrapped 
+-Fitness Shiny Application 
 
 ## 🌱 I'm currently learning
 
-- Data Visualization and Reproducable Research 
-
+- Scientific Computation
+- Computational Data Analysis
+- Data Mining Text Mining
 ## 💼 Technical Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
