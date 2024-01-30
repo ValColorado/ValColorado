@@ -3,10 +3,8 @@ Hi there, I'm Valentina! 👋
 </h3>
 
 <h2 align="center">
-I'm a Full Stack Developer 💻,  and Computer Science Masters Student 🎓!
+I'm a Full Stack Developer 💻
 </h2> 
-
-I really enjoy coding and continuous learning.
 
 ### 🤝 Connect with me:
 
@@ -18,14 +16,8 @@ I really enjoy coding and continuous learning.
 
 ## 🔭 I'm currently working on
 
--Fitness Shiny Application 
+-My quarto![website](https://valcolorado.github.io/)
 
-## 🌱 I'm currently learning
-
-- Scientific Computation
-- Computational Data Analysis
-- Data Mining Text Mining
-## 💼 Technical Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
