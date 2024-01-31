@@ -13,8 +13,7 @@ I'm a Full Stack Developer 💻
 
 
 
-### 🔭 I'm currently working on
--My quarto [website](https://valcolorado.github.io/). 
+### 🔭 Check out my Quarto site for a showcase of my projects [Take Me There](https://valcolorado.github.io/). 
 
 
 ### Skills 
